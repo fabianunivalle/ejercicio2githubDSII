@@ -1,5 +1,5 @@
-# Ejercio práctico de Desarrollo de Software II
-## Integrantes:
+# Ejercicio práctico de Desarrollo de Software II
+## Integrantes
 - Fabian Benavides Labiano      1726102
 - Maria Paula Mosquera Rengifo  1733431
 - Sebastián Tamayo Lasso        1725707
